@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiLanguageApp</string>
+    <string name="bahasa_indonesia">Bahasa Indonesia</string>
+    <string name="english">Bahasa Inggris</string>
+
+    <string-array name="array_title">
+        <item>CEO Xiaomi Tak Sudi Disamakan dengan Apple</item>
+        <item>SpaceX Siap Luncurkan 4.425 Satelit Broadband</item>
+        <item>Viral, Request Lagu Kocak \'Hallo Radio\'</item>
+    </string-array>
+
+    <string-array name="array_description">
+        <item>Xiaomi sering disebut tiruannya iPhone. Walau demikian, sang CEO ponsel China itu,
+            Lei Jun, tak sudi perusahaannya dibanding-bandingkan dengan Apple.</item>
+        <item>Pada November 2016 lalu, perusahaan antariksa yang dipimpin oleh Elon Musk ini
+            mendaftarkan perencanaan peluncuran 4.425 satelit kepada Federal Communications Commission.</item>
+        <item>Para pengguna aplikasi WhatsApp memang sudah tidak asing dengan pesan broadcast yang
+            dikirimkan oleh pengguna lainnya. Jika biasanya pesan yang dikirimkan mengenai informasi
+            terbaru, tapi hari ini justru ramai dengan request lagu di radio.</item>
+    </string-array>
+</resources>

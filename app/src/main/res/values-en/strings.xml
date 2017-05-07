@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiLanguageApp</string>
+    <string name="bahasa_indonesia">Bahasa</string>
+    <string name="english">English</string>
+
+    <string-array name="array_title">
+        <item>Xiaomi\'s CEO Do not like Equated with Apple</item>
+        <item>SpaceX Ready to Launch 4,425 Broadband Satellites</item>
+        <item>Viral, Request Funny Song \'Hello Radio \'</item>
+    </string-array>
+
+    <string-array name="array_description">
+        <item>Xiaomi is often called an iPhone imitation. However, the Chinese mobile phone CEO,
+            Lei Jun, did not want his company compared to Apple.</item>
+        <item>In November 2016, the space company led by Elon Musk this Registering 4,425 satellite
+            launch plans to the Federal Communications Commission.</item>
+        <item>WhatsApp app users are already familiar with broadcast messages
+            Sent by other users. If usually a message is sent about the information
+            Latest, but today it is busy with the request song on the radio.</item>
+    </string-array>
+</resources>
